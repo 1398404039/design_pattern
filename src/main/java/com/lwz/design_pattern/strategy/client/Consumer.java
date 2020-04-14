@@ -1,7 +1,8 @@
 package com.lwz.design_pattern.strategy.client;
 
-import com.lwz.spring.DesignModel.strategy.inter.DiscountStrategy;
-import com.lwz.spring.util.PropertiesUtil;
+
+import com.lwz.design_pattern.strategy.inter.DiscountStrategy;
+import com.lwz.design_pattern.util.PropertiesUtil;
 
 /**
  * @author lwz

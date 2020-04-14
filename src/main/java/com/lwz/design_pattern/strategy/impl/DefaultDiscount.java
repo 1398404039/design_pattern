@@ -1,6 +1,6 @@
 package com.lwz.design_pattern.strategy.impl;
 
-import com.lwz.spring.DesignModel.strategy.inter.DiscountStrategy;
+import com.lwz.design_pattern.strategy.inter.DiscountStrategy;
 
 /**
  * @author lwz
