@@ -4,7 +4,7 @@ package com.lwz.design_pattern.decorator;
 /**
  * @author lwz
  * @createTime 2020-04-14 15:56
- * @desc
+ * @desc 我才是个人
  */
 public class LwzPerson implements IPerson {
   @Override

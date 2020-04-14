@@ -3,7 +3,7 @@ package com.lwz.design_pattern.decorator;
 /**
  * @author lwz
  * @createTime 2020-04-14 15:57
- * @desc
+ * @desc 这里是染着红头发的人
  */
 public class DecoratorRedHair implements IPerson {
 
