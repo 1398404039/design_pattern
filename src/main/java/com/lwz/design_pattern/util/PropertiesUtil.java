@@ -10,7 +10,7 @@ import java.util.Properties;
 
 /**
  * @author lwz
- * @createTime 2020-04-13 17:55
+ * @createTime 2020-04-13 17:58
  * @desc
  */
 public class PropertiesUtil {
