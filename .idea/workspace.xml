@@ -38,13 +38,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="java" value="2423" />
+          <entry key="java" value="2426" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2423" />
+          <entry key="JAVA" value="2426" />
           <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
@@ -304,7 +304,7 @@
       <workItem from="1587088863100" duration="2773000" />
       <workItem from="1587101071440" duration="6522000" />
       <workItem from="1587278485817" duration="237000" />
-      <workItem from="1587279029641" duration="234000" />
+      <workItem from="1587279029641" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="代码初始化">
       <created>1587279061357</created>
@@ -327,15 +327,35 @@
       <option name="project" value="LOCAL" />
       <updated>1587279258585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="代码初始化">
+      <created>1587279287922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587279287922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="代码初始化">
+      <created>1587279436758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587279436758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="代码初始化">
+      <created>1587279503915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587279503915</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34892000" />
+    <option name="totallyTimeSpent" value="35141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
